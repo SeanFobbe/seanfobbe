@@ -8,6 +8,12 @@ As a data scientist, I specialize in natural language processing (NLP) and machi
 
 Learn more about my work on my personal website at <https://www.seanfobbe.com>
 
+# Open Source Development now on Codeberg
+
+I have moved all of my Open Source projects to Codeberg: https://codeberg.org/seanfobbe
+
+Development continues on Codeberg.
+
 
 <!--
 **SeanFobbe/seanfobbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
